@@ -50,7 +50,7 @@ User Actions: Log communications, view statuses, and track overdue tasks via the
 
 ## Deployment
 ## Deployment
-- **Live Application**: [View Here]
-- **Demo Video**: [Watch Here]
+- **Live Application**: [View Here] https://akshaya-bureddy.github.io/calendar-tracker/
+- **Demo Video**: [Watch Here] 
 
 
