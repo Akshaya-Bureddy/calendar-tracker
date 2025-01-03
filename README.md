@@ -19,7 +19,19 @@ The tool supports centralized communication logging, scheduling, and follow-up m
 - **Frontend**: React.js (`.jsx`)
 - **Styling**: Tailwind CSS
 - **Deployment**: GitHub
-  
+
+
+### Prerequisites
+1. Node.js and npm
+   -> Node.js is required to run JavaScript on your local machine.
+   -> npm (Node Package Manager) comes with Node.js and is used to install project dependencies.
+   -> Download and install Node.js (LTS version recommended).\
+   -> Verify Installations ->in command -> node -v and npm -v 
+3. Git
+   -> Git is required to clone the project repository
+   -> Download and install Git
+   -> Verify installation -> cmd -> git -v
+
 ## Setup Instructions
 1. Clone the repository:
    ```bash
@@ -32,13 +44,13 @@ The tool supports centralized communication logging, scheduling, and follow-up m
    npm start
 5. Open in the browser at: http://localhost:3000.
 
-### Prerequisites
-1. Node.js and npm
-   -> Node.js is required to run JavaScript on your local machine.
-   -> npm (Node Package Manager) comes with Node.js and is used to install project dependencies.
-   -> Download and install Node.js (LTS version recommended).\
-   -> Verify Installations ->in command -> node -v and npm -v 
-3. Git
-   -> Git is required to clone the project repository
-   -> Download and install Git
-   -> Verify installation -> cmd -> git -v
+## Usage
+Admin Access: Manage company details and configure periodic schedules.
+User Actions: Log communications, view statuses, and track overdue tasks via the dashboard.
+
+## Deployment
+## Deployment
+- **Live Application**: [View Here]
+- **Demo Video**: [Watch Here]
+
+
