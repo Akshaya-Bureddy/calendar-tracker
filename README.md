@@ -46,9 +46,10 @@ The tool supports centralized communication logging, scheduling, and follow-up m
 
 ## Usage
 Admin Access: Manage company details and configure periodic schedules.
+
 User Actions: Log communications, view statuses, and track overdue tasks via the dashboard.
 
-## Deployment
+
 ## Deployment
 - **Live Application**: [View Here] https://akshaya-bureddy.github.io/calendar-tracker/
 - **Demo Video**: [Watch Here] https://youtu.be/O_cWpSY-7dU
